@@ -1,6 +1,7 @@
 Windows Forms ile geliştirilmiş basit restoran sipariş ve ödeme uygulaması.
 Özellikler
-<img width="1353" height="667" alt="Ekran görüntüsü 2025-12-25 022431" src="https://github.com/user-attachments/assets/495a4cb2-012a-4e90-82b7-999d83fc66ef" />
+<img width="1331" height="677" alt="image" src="https://github.com/user-attachments/assets/0a25fbcb-79f4-4b2f-b78c-36000cc39249" />
+
 
 6 farklı ürün seçimi
 Adet belirleme
